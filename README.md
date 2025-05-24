@@ -1,4 +1,3 @@
-Каролина Систра, [24.05.2025 18:34]
 <!DOCTYPE html>
 <html lang="uk">
 <head>
